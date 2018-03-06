@@ -26,7 +26,7 @@ public class MainActivity extends AppCompatActivity {
     private static Retrofit retrofit = null;
     private RecyclerView recyclerView = null;
     // insert your themoviedb.org API KEY here
-    private final static String API_KEY = "a12d5561facc1618207e817a3f0aa6fc";
+    private final static String API_KEY = "API_KEY HERE";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
